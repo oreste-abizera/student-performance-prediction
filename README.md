@@ -171,9 +171,7 @@ student-performance-prediction/
 ├── LICENSE                                      # MIT License
 ├── requirements.txt                             # Python dependencies
 ├── .gitignore                                   # Git ignore rules
-├── Educational_Performance_ML_DL_Pipeline.ipynb # Main analysis (11 experiments)
-├── data/                                        # Data information
-│   └── README.md                                # Data source & download instructions
+├── Educational Performance ML DL Pipeline.ipynb # Main analysis (11 experiments)
 ```
 
 ---
